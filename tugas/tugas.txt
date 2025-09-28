@@ -1,5 +1,0 @@
-Tugas:
-
-- Analisa feature / column lain
-- Buat regresi untuk tip
-- Cek TA 5 tahun terakhir, cari mana yang terasuk ML dan case nya (Regressi, Klasifikasi, ....)
