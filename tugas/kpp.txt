@@ -1,0 +1,10 @@
+Create your ML Projects (at least choose 1)
+    Compare Regression: Single feature vs many features vs PC (Taxi 4 month)
+    Compare Classification: Single feature vs All features vs PC (Breast cancer)
+    Customer segmentation: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+Details:
+    - create models
+    - in notebook explain step by step and the reason
+    - give conclusion
+    - create slide and share in LinkedIn as a portofolio (optional)
